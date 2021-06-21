@@ -1,3 +1,22 @@
-# fetching API with Flask
 
-Fetching HatchWay API and return processed JSON data using Flask
+/***********************************************
+************App made by Minh Phuong Ly**********
+*********** phuong.ly.k2set@gmail.com **********
+************************************************/
+
+NOTES:
+*   I spent roughly 60 minutes for lunch and preparing for submitting.
+*   Cache server side is completely new to me.
+*   Threading is partially new to me.
+*   Unit tests performed: upper-lower cases, spaces, missing tags/sortBy/direction
+
+Dependencies: flask, time, requests, requests-cache, threading
+
+
+To run flask on local at port 5000 > open the project folder> perform commands below within python environment:
+export FLASK_APP=main.py
+flask run --host=0.0.0.0 --port=5000
+
+
+Thank you for reading. Enjoy my app :D
+27 May 2021
