@@ -5,9 +5,9 @@
 ************************************************/
 
 NOTES:
-*   I spent roughly 60 minutes for lunch and preparing for submitting.
-*   Cache server side is completely new to me.
-*   Threading is partially new to me.
+*   Fetch Hatchway API
+*   Cache server side
+*   Threading for asynchronous requests
 *   Unit tests performed: upper-lower cases, spaces, missing tags/sortBy/direction
 
 Dependencies: flask, time, requests, requests-cache, threading
