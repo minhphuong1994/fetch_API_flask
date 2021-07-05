@@ -5,7 +5,7 @@
 ************************************************/
 
 NOTES:
-*   Fetch Hatchway API
+*   Fetch API
 *   Cache server side
 *   Threading for asynchronous requests
 *   Unit tests performed: upper-lower cases, spaces, missing tags/sortBy/direction
